@@ -4,7 +4,7 @@ The code in this toolbox implements the "Robust Transfer Subspace Learning Based
 
 Quick Testing
 --
-
+"Single to Image" is used to convert one-dimensional signals to images and extract features of images. Then run the codes in "LRSR-G" and "LRSR-R" to train models using the data from "Single to Image".
 
 Citation
 --
